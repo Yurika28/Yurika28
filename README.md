@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Yurika28
-- 👀 I’m interested in web development, web design, Javascript, React, floral painting, flowers arrangement... quite random tho
-- 🌱 I’m currently learning Frontend React Development
-- 💞️ I’m looking to collaborate on web design and react projects
-- 📫 How to reach me yurikamaha@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Yurika28/Yurika28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm @Yurika28
+👀 I'm interested in full-stack web development — React/Next.js frontends, Node/Express backends, and end-to-end architecture — plus web design.
+🌱 I'm currently  deepening my skills in real-time data (Socket.io), 3D web experiences (React Three Fiber), and AI-integrated apps
+💞️ I'm looking to collaborate on website and web application
+📫 How to reach me yurikamaha@gmail.com
